@@ -39,7 +39,7 @@
           <configuration>
             <server>war-deployment-to-tomcat</server>
             <url>http://18.232.123.142:8080</url>
-            <path>/webapps</path>
+            <path>/Sagore-Maven-Project</path>
           </configuration>
         </plugin>
         <!-- see http://maven.apache.org/ref/current/maven-core/default-bindings.html#Plugin_bindings_for_war_packaging -->
